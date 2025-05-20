@@ -1,11 +1,12 @@
-![WhatsApp Image 2025-05-20 at 18 14 45_7f94a395](https://github.com/user-attachments/assets/abbb3cd0-f39a-4983-863b-d97317ae4229)
+![WhatsApp Image 2025-05-20 at 18 14 45_7f94a395](https://github.com/user-attachments/assets/ab6e6150-6af3-491f-b21d-4bf8ed2b5882)
 
-Project Title: Cafeteria Pre-Booking System
 
-Description: The Cafeteria Pre-Booking Project is designed to steamline meal reservations in cafeterias,allowing users to pre-book meals,select pickup times,and make payments online.This system helps
+**Project Title:** Cafeteria Pre-Booking System
+
+**Description:** The Cafeteria Pre-Booking Project is designed to steamline meal reservations in cafeterias,allowing users to pre-book meals,select pickup times,and make payments online.This system helps
 cafeterias manage food iventory efficiently,reduce waste and improve customer experience.
 
-Installation Steps: 
+**Installation Steps: **
 1. User Registration & Login
 Users sign up with their details (name, email, phone number).
 
@@ -36,7 +37,7 @@ Users collect their meals by scanning the QR code at the cafeteria.
 
 Option to rate meals & provide feedback for quality improvement.
 
-Usage Instructions: 
+**Usage Instructions: **
 Login/Register – Users sign up and log in to access the system.
 
 View Menu – They browse the available meals and select their preferred items.
@@ -51,11 +52,11 @@ Pickup – Users show their QR code at the cafeteria counter to receive their me
 
 Tech Stack: The  the technologies used is HTML.
 
-Contributors: B.Harshitha
-              R.Charitha
-              G.Litheesha
+**Contributors:** B.Harshitha
+                  R.Charitha
+                  G.Litheesha
 
-License: 
+**License: **
 MIT License – Allows free use, modification, and distribution.
 
 Apache License 2.0 – Similar to MIT but includes patent protection.
@@ -66,7 +67,7 @@ Proprietary License – If you want to keep the project private and sell it.
 
 You can check out an example README file for a cafeteria management system here.
 
-HTML Code for Cafeteria Pre-Booking:
+**HTML Code for Cafeteria Pre-Booking:**
 To create a simple HTML structure for your project, you can start with:
 
 <!DOCTYPE html>
